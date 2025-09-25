@@ -7,3 +7,4 @@
 4. Connect MetaMask to Optimism network
 5. Deploy with initial supply parameter
 6. Interact using ERC20 functions
+7. Sleep
